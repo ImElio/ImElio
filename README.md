@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imelio&label=Profile%20views&color=0e75b6&style=flat" alt="imelio" /> </p>
 
-- 🔭 I’m currently working on **87Tv**
+- 🔭 I’m currently working on **CosmoAIR srl**
 
 - 🌱 I’m currently learning **Website design**
 
