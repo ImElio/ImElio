@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [WikiElio.it](https://wikielio.it)]<br><br>🌱 I’m currently learning Website design<br><br>📫 How to reach me imelio.contattami@gmail.com
+🔭 I’m currently working on [WikiElio.it](https://wikielio.it)<br><br>🌱 I’m currently learning Website design<br><br>📫 How to reach me imelio.contattami@gmail.com
 
 
 ## 🌐 Socials:
