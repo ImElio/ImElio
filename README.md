@@ -9,6 +9,9 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/398870857050619916?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/398870857050619916)
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImElio&theme=merko&hide_border=true)](https://github.com/ImElio/ImElio)
+
+
 # 💻 Tech Stack:
 
 ### Linguaggi di Programmazione
