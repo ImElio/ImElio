@@ -5,6 +5,10 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/398870857050619916) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leliozzzonfire) 
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/398870857050619916?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/398870857050619916)
+<br>
+
 # 💻 Tech Stack:
 
 ### Linguaggi di Programmazione
