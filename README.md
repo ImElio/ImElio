@@ -9,7 +9,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/398870857050619916?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/398870857050619916)
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=ImElio&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ImElio&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImElio&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
