@@ -75,7 +75,7 @@
     <tr>
       <td>
         <h3>other places you'll find my stuff</h3>
-        <strong><a href="https://www.nexusmods.com/schedule1/mods/189">Warehouse Always Open</a> (v 1.0.2.5b)</strong>  
+        <strong><a href="https://www.nexusmods.com/schedule1/mods/189">Warehouse Always Open</a> (v 1.0.2.4b)</strong>  
         – tired of waiting for the game to let you in? now the door's always open  
         <br><em>sometimes life needs less friction and more dark market deals</em>
       </td>
