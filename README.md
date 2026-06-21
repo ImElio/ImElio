@@ -69,6 +69,8 @@
   </table>
 </div>
 
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImElio&theme=rose_pine">
+
 <!-- 🌐 Other Stuff Online -->
 <div align="center">
   <table style="width: 100%;">
